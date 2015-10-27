@@ -8,7 +8,6 @@ I put it here only to be able to work on it and hopefully improve it
 
  The eth interface order is,
 
-eth0 is for LAN use 
-eth1 and eth2 are the adsl WAN connections
+eth0 and eth1 are for LAN use ; eth2 and eth3 are the adsl WAN connections
 
  have fun
